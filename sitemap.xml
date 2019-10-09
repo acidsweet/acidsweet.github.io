@@ -1,33 +1,49 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
-  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+<?xml-stylesheet type="text/xsl" href="https://acidsweet.github.io/sitemap.xsl"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://acidsweet.github.io/</loc>
-    <lastmod>2019-09-04T17:16:45+08:00</lastmod>
+    <loc>https://acidsweet.github.io/categories/android/</loc>
+    <lastmod>2019-10-09T11:31:18+08:00</lastmod>
   </url>
   
   <url>
-    <loc>https://acidsweet.github.io/post/first/</loc>
-    <lastmod>2019-09-04T17:16:45+08:00</lastmod>
+    <loc>https://acidsweet.github.io/tags/android/</loc>
+    <lastmod>2019-10-09T11:31:18+08:00</lastmod>
   </url>
   
   <url>
-    <loc>https://acidsweet.github.io/post/</loc>
-    <lastmod>2019-09-04T17:16:45+08:00</lastmod>
+    <loc>https://acidsweet.github.io/post/uiautotest/</loc>
+    <lastmod>2019-10-09T11:31:18+08:00</lastmod>
   </url>
   
   <url>
-    <loc>https://acidsweet.github.io/about/</loc>
-    <lastmod>2019-09-04T17:15:31+08:00</lastmod>
+    <loc>https://acidsweet.github.io/tags/autotest/</loc>
+    <lastmod>2019-10-09T11:31:18+08:00</lastmod>
   </url>
   
   <url>
     <loc>https://acidsweet.github.io/categories/</loc>
+    <lastmod>2019-10-09T11:31:18+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://acidsweet.github.io/</loc>
+    <lastmod>2019-10-09T11:31:18+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://acidsweet.github.io/post/</loc>
+    <lastmod>2019-10-09T11:31:18+08:00</lastmod>
   </url>
   
   <url>
     <loc>https://acidsweet.github.io/tags/</loc>
+    <lastmod>2019-10-09T11:31:18+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://acidsweet.github.io/post/howtowriteaxutils/</loc>
+    <lastmod>2019-10-08T11:59:41+08:00</lastmod>
   </url>
   
 </urlset>

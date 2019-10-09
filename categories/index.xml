@@ -1,14 +1,25 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Categories on Acidsweet</title>
+    <title>Categories on jin&#39;s blog</title>
     <link>https://acidsweet.github.io/categories/</link>
-    <description>Recent content in Categories on Acidsweet</description>
+    <description>Recent content in Categories on jin&#39;s blog</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
+    <language>zh-cn</language>
+    <copyright>Jin</copyright>
+    <lastBuildDate>Wed, 09 Oct 2019 11:31:18 +0800</lastBuildDate>
     
 	<atom:link href="https://acidsweet.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Android</title>
+      <link>https://acidsweet.github.io/categories/android/</link>
+      <pubDate>Wed, 09 Oct 2019 11:31:18 +0800</pubDate>
+      
+      <guid>https://acidsweet.github.io/categories/android/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>
